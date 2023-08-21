@@ -1,4 +1,4 @@
-package com.example.lab4final
+package com.example.recetaseimagenes
 
 import org.junit.Test
 

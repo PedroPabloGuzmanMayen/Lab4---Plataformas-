@@ -1,4 +1,4 @@
-package com.example.lab4final.ui.theme
+package com.example.recetaseimagenes.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
